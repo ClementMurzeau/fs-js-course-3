@@ -18,7 +18,9 @@ Before starting to work with this template, please take some time to read throug
 - [Pre-defined scripts](#pre-defined-scripts)
 - [CI/CD](#cicd)
   - [Continuous Integration](#continuous-integration)
-  - [Continuous Deployment](#continuous-deployment)
+  - [Continuous Deployment](#continuo
+  
+  us-deployment)
   - [How to automatically deploy updates to npm](#how-to-automatically-deploy-updates-to-npm)
 
 ## Included tools
